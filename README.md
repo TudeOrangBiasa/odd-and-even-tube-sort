@@ -1,10 +1,10 @@
-# Judul Proyek
+# OddAndEvenTubeSort
 
 Proyek ini adalah program C sederhana yang membaca angka unik dari input pengguna, mengkategorikannya ke dalam dua array berdasarkan apakah mereka genap atau ganjil, dan kemudian mencetak array yang telah diurutkan beserta jumlahnya.
 
 ### Tangkapan Layar
 
-![Tangkapan Layar Pertanyaan](/screenshots/Screenshot_20250226_085714.png.png)
+![Tangkapan Layar Pertanyaan](/screenshots/Screenshot_20250226_085714.png
 
 ## Memulai
 
