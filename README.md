@@ -20,7 +20,7 @@ Proyek ini adalah program C sederhana yang membaca angka unik dari input penggun
     ```
 2. Masuk ke direktori proyek:
     ```sh
-    cd odd-and-even-tube-sort/src
+    cd odd-and-even-tube-sort
     ```
 
 ### Penggunaan
