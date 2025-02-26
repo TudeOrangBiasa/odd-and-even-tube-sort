@@ -4,7 +4,7 @@ Proyek ini adalah program C sederhana yang membaca angka unik dari input penggun
 
 ### Tangkapan Layar
 
-![Tangkapan Layar Pertanyaan](screenshots/soal.png
+![Tangkapan Layar Pertanyaan](screenshots/soal.png)
 
 ## Memulai
 
